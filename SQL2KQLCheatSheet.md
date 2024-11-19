@@ -22,4 +22,4 @@
 
 # Links
 - https://kqlcheat.byfortytwo.com/
-- - https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=microsoft-fabric
+- https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=microsoft-fabric
